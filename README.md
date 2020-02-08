@@ -34,3 +34,8 @@ GPIO 33 (D33)     Button M
 
 One side of each button goes to GPIO and the other one to ground, wire one common ground, the screen GND and all buttons, to ESP32 GND.
 
+Load the program on arduino IDE. You need to add the needed libraries (adafruit screen libraries and ESP32 https://github.com/espressif/arduino-esp32)
+
+Compile and upload the program, you need keep the Boot button pushed on the ESP32 until it begins uploading.
+
+Once it is uploaded it will wait to the bluetooth connection to be opened, once it is connected, connect the app to the Amp too and you are good to rock.
