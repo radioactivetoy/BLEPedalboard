@@ -38,7 +38,7 @@ Load the program on arduino IDE. You need to add the needed libraries (adafruit 
 
 Compile and upload the program, you need keep the Boot button pushed on the ESP32 until it begins uploading.
 
-Once it is uploaded it will wait to the bluetooth connection to be opened, once it is connected, connect the app to the Amp too and you are good to rock.
+Once it is uploaded it will wait to the bluetooth connection to be opened, once it is connected, connect the app to the Amp too and you are good to rock. You can power it with a small powerbank.
 
 Pnce you have all tested, use a 3Dprinter to print the housing ( Side has to be printed 2 times).
 
