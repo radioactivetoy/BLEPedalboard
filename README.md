@@ -46,3 +46,4 @@ Preset Mode:
 ![Pedalboard Presset Mode](images/image1.jpg)
 Effect Mode:
 ![Peadlboard Effect Mode](images/image2.jpg)
+
