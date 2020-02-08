@@ -15,6 +15,7 @@ The pedalboard needs to talk with the android App, this is an amp limitation.
   * 0,96 Inches OLED Display https://es.aliexpress.com/item/32896971385.html?spm=a2g0s.9042311.0.0.7f8363c0Pb0CUG
   * Wires
   * 3D printer for the housing
+  * USB Powerbank
 
 * Connections:
   * Screen:
@@ -37,7 +38,7 @@ Load the program on arduino IDE. You need to add the needed libraries (adafruit 
 
 Compile and upload the program, you need keep the Boot button pushed on the ESP32 until it begins uploading.
 
-Once it is uploaded it will wait to the bluetooth connection to be opened, once it is connected, connect the app to the Amp too and you are good to rock. You can power it with a small powerbank.
+Once it is uploaded it will wait to the bluetooth connection to the phone, connect using the Yamaha THR app. The pedalboard will appear as ¨BLE Pedalboard¨. Once it is connected, connect the app to the Amp too, and you are good to rock. 
 
 Pnce you have all tested, use a 3Dprinter to print the housing ( Side has to be printed 2 times).
 
